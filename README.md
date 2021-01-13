@@ -1,14 +1,10 @@
 # Mutlaka oku!
 
-Discord Bot Sıfır Altyapı ( Python )
+Python Gelişmiş Altyapı
 
+Kurulumu çok basit zaten token ve prefix giriceksiniz.
 
-Not: Bu modülleri indiriniz;
-
-py -3 -m pip install -U discord.py
-
-
-Dipnot: Modülleri bu şekilde indiriniz;
+Not: Modülleri bu şekilde indiriniz;
 
 py -3 -m pip install -U <modüladı>
 
